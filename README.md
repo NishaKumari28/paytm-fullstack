@@ -23,11 +23,11 @@ This repository contains both backend and frontend code for the Paytm fullstack 
 1. Clone the repository to your backend server.
 ```
 sudo yum install git -y
-git clone https://github.com/CloudTechDevOps/Paytm-fullstack-project.git
+git clone https://github.com/NishaKumari28/paytm-fullstack.git
 ```
 switch to backend
 ``` 
- cd Paytm-fullstack-project/Backend
+ cd Paytm-fullstack/Backend
 ```
 2. install dependencys 
 ```
@@ -59,12 +59,12 @@ nohup python3 rds.py > rds.log 2>&1 &
 1. Clone the repository to your frontend server.
 ```
 sudo yum install git -y
-git clone https://github.com/CloudTechDevOps/Paytm-fullstack-project.git
+git clone https://github.com/Nishakumari28/Paytm-fullstack.git
 ```
 
 2. switch to frontend
 ``` 
- cd Paytm-fullstack-project/Frontend
+ cd Paytm-fullstack/Frontend
  ```
 3. siwtch to frontend s3
 ```
